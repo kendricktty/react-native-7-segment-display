@@ -1,6 +1,6 @@
-# React 7-Segment Display
+# React Native 7-Segment Display (WIP)
 
-A React component that simulates a 7-segment display.
+Today, it's a React component that simulates a 7-segment display. In future, this will be a React *Native* component that simulates a 7-segment display. Forked from the original author nachovigilante, I'm working to update the codebase as much as I can so that it can be used with React Native.
 
 ![Display demo](./assets/Display.gif)
 
