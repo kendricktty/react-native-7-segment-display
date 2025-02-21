@@ -1,6 +1,7 @@
 import defaultCharMap, { CharToDigit } from "../utils/charToDigit";
 import { Digit } from "./Digit";
 import React, { useEffect, useState } from "react";
+import { View, StyleSheet } from 'react-native';
 
 type DisplayType = {
     count: number;
